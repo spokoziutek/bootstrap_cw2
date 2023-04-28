@@ -1,0 +1,40 @@
+.container{
+    padding-top: 10px;
+    text-align: center;
+}
+
+.btn{
+    border-radius: 0;
+}
+
+#sekcja1{
+    min-height: 1000px;
+    background-color: lightgreen;
+    margin-top: 10px;
+    padding-top: 10px;
+}
+
+#sekcja2{
+    padding-top: 10px;
+    min-height: 1000px;
+    background-color: gold;
+    margin-top: 10px;
+}
+
+#sekcja3{
+    padding-top: 500px;
+    min-height: 1000px;
+    background-color: antiquewhite;
+    margin-top: 10px;
+}
+
+#sekcja4{
+    padding-top: 500px;
+    min-height: 1000px;
+    background-color:aqua;
+    margin-top: 10px;
+}
+
+p{
+    font-size: xx-large;
+}
